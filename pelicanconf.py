@@ -6,6 +6,7 @@ SITENAME = 'Projet AQUA'
 SITEURL = ''
 
 PATH = 'content'
+STATIC_PATHS = ['images', 'pdfs']
 
 TIMEZONE = 'Europe/Paris'
 
